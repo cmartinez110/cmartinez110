@@ -19,7 +19,8 @@
   - [Linux Commands to Manage File Permissions]
   - <a href="https://github.com/cmartinez110/Apply-Filters-to-SQL-Queries">Apply Filters to SQL Queries</a>
 
-  - [Modified a File Using Python Algorithm]
+  - <a href="https://github.com/cmartinez110/Python-File-Update-Algorithm/blob/main/README.md">Update a File with a Python Algorithm</a>
+
 
 
 
