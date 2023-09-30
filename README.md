@@ -17,7 +17,8 @@
   - [Vulnerability Assessment]
   - [Incident Handler's Journal]
   - [Linux Commands to Manage File Permissions]
-  - [Apply Filters to SQL Queries]
+  - <a href="https://github.com/cmartinez110/Apply-Filters-to-SQL-Queries">Apply Filters to SQL Queries</a>
+
   - [Modified a File Using Python Algorithm]
 
 
