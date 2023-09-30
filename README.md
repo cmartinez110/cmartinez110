@@ -12,7 +12,8 @@
   - [HackTheBox - Introduction to Network Traffic Analysis]
   - [HackTheBox - Introduction to Active Directory]
   - [HackTheBox - Windows Event Logs & Finding Evil]
-  - [Security Audit]
+  - <a href="https://github.com/cmartinez110/Security-Audit/blob/main/README.md">Security Audit</a>
+
   - [Incident Report Analysis]
   - [Vulnerability Assessment]
   - [Incident Handler's Journal]
