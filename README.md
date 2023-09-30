@@ -17,7 +17,8 @@
   - [Incident Report Analysis]
   - [Vulnerability Assessment]
   - [Incident Handler's Journal]
-  - [Linux Commands to Manage File Permissions]
+  - <a href="https://github.com/cmartinez110/Modifying-File-Permissions_Linux/blob/main/README.md" target="_blank">Linux Commands to Modify File Permissions</a>
+
   - <a href="https://github.com/cmartinez110/Apply-Filters-to-SQL-Queries">Apply Filters to SQL Queries</a>
 
   - <a href="https://github.com/cmartinez110/Python-File-Update-Algorithm/blob/main/README.md">Update a File with a Python Algorithm</a>
