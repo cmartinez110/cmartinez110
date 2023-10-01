@@ -28,7 +28,7 @@
   - [HackTheBox - Introduction to Active Directory]
   - [HackTheBox - Windows Event Logs & Finding Evil]
  
-- <b>Code, Command Line, and Automation:
+- <b>Code, Command Line, and Automation:</b>:
 
   - <a href="https://github.com/cmartinez110/Modifying-File-Permissions_Linux/blob/main/README.md" target="_blank">Linux Commands to Modify File Permissions</a>
 
