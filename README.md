@@ -1,13 +1,15 @@
 <h1>Hi, I'm Connor!</h1>
 
 <h2>Security Projects:</h2>
-<i>(anything not TBD is getting repo links ASAP!)</i>
+<i>(anything not TBA is getting repo links ASAP!)</i>
 <br></br>
 
   - [TryHackMe SOC Level 1 (In Progress)]</b>
-  - [TryHackMe Cyber Defense (TBD)]
+  - [TryHackMe Cyber Defense (TBA)]
   - [Analyze Network Traffic with TCPDump]
   - [Wireshark for Beginner: Capture Packets]
+  - [Splunk]
+  - [Suricata]
   - [Windows Defender]
   - [HackTheBox - Introduction to Network Traffic Analysis]
   - [HackTheBox - Introduction to Active Directory]
@@ -16,8 +18,8 @@
 
   - <a href="https://github.com/cmartinez110/Incident-response-analysis/blob/main/README.md" target="_blank">Incident Response Analysis</a>
 
-  - [Vulnerability Assessment]
-  - [Incident Handler's Journal]
+  - <a href="https://github.com/cmartinez110/vulnerability-assessment-report/blob/main/README.md">Vulnerability Assessment Report</a>
+
   - <a href="https://github.com/cmartinez110/Modifying-File-Permissions_Linux/blob/main/README.md" target="_blank">Linux Commands to Modify File Permissions</a>
 
   - <a href="https://github.com/cmartinez110/Apply-Filters-to-SQL-Queries">Apply Filters to SQL Queries</a>
@@ -25,15 +27,13 @@
   - <a href="https://github.com/cmartinez110/Python-File-Update-Algorithm/blob/main/README.md">Update a File with a Python Algorithm</a>
 
 
-
-
 <h2>Certifications</h2>
 <p/><a href="https://coursera.org/share/d5ccff7ecb2dc5acd5fde848b181d50b)"><b>Google Cybersecurity Certificate and CompTIA Security+</b></a></p>
 <p/><a href="https://coursera.org/share/d6aceec2636904b9b8d0101180083025"><b>Google IT Professional Certificate</b></a></p>
 
-<b>Blue Team Level 1 (TBD)</b>
+<b>Blue Team Level 1 (TBA)</b>
 
-<b>InfoSec Institute Computer Forensics Specialization (TBD)</b>
+<b>InfoSec Institute Computer Forensics Specialization (TBA)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
