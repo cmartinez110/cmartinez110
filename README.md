@@ -18,6 +18,7 @@
   - [Analyze Network Traffic with TCPDump]
   - [Wireshark for Beginner: Capture Packets]
   - [Splunk]
+  - [Chronicle]
   - <a href="https://github.com/cmartinez110/suricata-lab-0/blob/main/README.md">Suricata Basics Lab</a>
 
   - [HackTheBox - Introduction to Network Traffic Analysis]
