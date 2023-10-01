@@ -12,14 +12,14 @@
   - <a href="https://github.com/cmartinez110/Incident-response-analysis/blob/main/README.md" target="_blank">Incident Response Analysis</a>
 
   - <a href="https://github.com/cmartinez110/vulnerability-assessment-report/blob/main/README.md">Vulnerability Assessment Report</a>
-  - [Windows Defender]
+  - [Microsoft Windows Defender and Firewall for Beginners]
 
 - <b>Logs, Packet Capture, and Network Traffic Analysis:</b>
   - <a href="https://github.com/cmartinez110/introduction-to-tcpdump/blob/main/README.md">Introduction to TCPDump</a>
 
   - <a href="https://github.com/cmartinez110/wireshark-lab-0/blob/main/README.md">Introduction to Wireshark</a>
 
-  - [Splunk]
+  - [Splunk Core Certified User]
   - <a href="https://github.com/cmartinez110/chronicle-lab-0/blob/main/README.md">Google Chronicle SIEM</a>
 
   - <a href="https://github.com/cmartinez110/suricata-lab-0/blob/main/README.md">Suricata Basics Lab</a>
