@@ -15,7 +15,8 @@
   - [Windows Defender]
 
 - <b>Logs, Packet Capture, and Network Traffic Analysis:</b>
-  - [Analyze Network Traffic with TCPDump]
+  - <a href="https://github.com/cmartinez110/introduction-to-tcpdump/blob/main/README.md">Introduction to TCPDump</a>
+
   - <a href="https://github.com/cmartinez110/wireshark-lab-0/blob/main/README.md">Introduction to Wireshark</a>
 
   - [Splunk]
