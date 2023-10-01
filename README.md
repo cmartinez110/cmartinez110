@@ -16,7 +16,8 @@
 
 - <b>Logs, Packet Capture, and Network Traffic Analysis:</b>
   - [Analyze Network Traffic with TCPDump]
-  - [Wireshark for Beginner: Capture Packets]
+  - <a href="https://github.com/cmartinez110/wireshark-lab-0/blob/main/README.md">Introduction to Wireshark</a>
+
   - [Splunk]
   - [Chronicle]
   - <a href="https://github.com/cmartinez110/suricata-lab-0/blob/main/README.md">Suricata Basics Lab</a>
@@ -32,7 +33,8 @@
   - <a href="https://github.com/cmartinez110/Apply-Filters-to-SQL-Queries">Apply Filters to SQL Queries</a>
 
   - <a href="https://github.com/cmartinez110/Python-File-Update-Algorithm/blob/main/README.md">Update a File with a Python Algorithm</a>
-
+  
+- <b>Digital Forensics:<b/>
 
 <h2>Certifications</h2>
 <p/><a href="https://coursera.org/share/d5ccff7ecb2dc5acd5fde848b181d50b)"><b>Google Cybersecurity Certificate and CompTIA Security+</b></a></p>
