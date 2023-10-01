@@ -9,7 +9,8 @@
   - [Analyze Network Traffic with TCPDump]
   - [Wireshark for Beginner: Capture Packets]
   - [Splunk]
-  - [Suricata]
+  - <a href="https://github.com/cmartinez110/suricata-lab-0/blob/main/README.md">Suricata Basics Lab</a>
+
   - [Windows Defender]
   - [HackTheBox - Introduction to Network Traffic Analysis]
   - [HackTheBox - Introduction to Active Directory]
