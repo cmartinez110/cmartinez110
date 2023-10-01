@@ -2,24 +2,29 @@
 
 <h2>Security Projects:</h2>
 <i>(anything not TBA is getting repo links ASAP!)</i>
-<br></br>
 
-  - [TryHackMe SOC Level 1 (In Progress)]</b>
+- <b>Blue Team:</b>
+  - [TryHackMe SOC Level 1 (In Progress)]
   - [TryHackMe Cyber Defense (TBA)]
-  - [Analyze Network Traffic with TCPDump]
-  - [Wireshark for Beginner: Capture Packets]
-  - [Splunk]
-  - <a href="https://github.com/cmartinez110/suricata-lab-0/blob/main/README.md">Suricata Basics Lab</a>
-
-  - [Windows Defender]
-  - [HackTheBox - Introduction to Network Traffic Analysis]
-  - [HackTheBox - Introduction to Active Directory]
-  - [HackTheBox - Windows Event Logs & Finding Evil]
+ 
   - <a href="https://github.com/cmartinez110/Security-Audit/blob/main/README.md">Security Audit</a>
 
   - <a href="https://github.com/cmartinez110/Incident-response-analysis/blob/main/README.md" target="_blank">Incident Response Analysis</a>
 
   - <a href="https://github.com/cmartinez110/vulnerability-assessment-report/blob/main/README.md">Vulnerability Assessment Report</a>
+  - [Windows Defender]
+
+- <b>Logs, Packet Capture, and Network Traffic Analysis:</b>
+  - [Analyze Network Traffic with TCPDump]
+  - [Wireshark for Beginner: Capture Packets]
+  - [Splunk]
+  - <a href="https://github.com/cmartinez110/suricata-lab-0/blob/main/README.md">Suricata Basics Lab</a>
+
+  - [HackTheBox - Introduction to Network Traffic Analysis]
+  - [HackTheBox - Introduction to Active Directory]
+  - [HackTheBox - Windows Event Logs & Finding Evil]
+ 
+- <b>Code, Command Line, and Automation:
 
   - <a href="https://github.com/cmartinez110/Modifying-File-Permissions_Linux/blob/main/README.md" target="_blank">Linux Commands to Modify File Permissions</a>
 
