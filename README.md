@@ -20,9 +20,9 @@
   - <a href="https://github.com/cmartinez110/wireshark-lab-0/blob/main/README.md">Introduction to Wireshark</a>
 
   - [Splunk Core Certified User]
-  - <a href="https://github.com/cmartinez110/chronicle-lab-0/blob/main/README.md">Google Chronicle SIEM</a>
+  - <a href="https://github.com/cmartinez110/chronicle-lab-0/blob/main/README.md">Perform a Query with Chronicle</a>
 
-  - <a href="https://github.com/cmartinez110/suricata-lab-0/blob/main/README.md">Suricata Basics Lab</a>
+  - <a href="https://github.com/cmartinez110/suricata-lab-0/blob/main/README.md">Explore Signatures and Logs with Suricata</a>
 
   - [HackTheBox - Introduction to Network Traffic Analysis]
   - [HackTheBox - Introduction to Active Directory]
