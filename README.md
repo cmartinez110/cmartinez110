@@ -37,7 +37,7 @@
   - <a href="https://github.com/cmartinez110/Python-File-Update-Algorithm/blob/main/README.md">Update a File with a Python Algorithm</a>
   
 <h2>Certifications</h2>
-<p/><a href="https://coursera.org/share/d5ccff7ecb2dc5acd5fde848b181d50b)"><b>Google Cybersecurity Certificate and CompTIA Security+</b></a></p>
+<p/><a href="https://coursera.org/share/d5ccff7ecb2dc5acd5fde848b181d50b)"><b>Google Cybersecurity Certificate (working on CompTIA Security+ dual certificate)</b></a></p>
 <p/><a href="https://coursera.org/share/d6aceec2636904b9b8d0101180083025"><b>Google IT Professional Certificate</b></a></p>
 
 <b>Blue Team Level 1 (TBA)</b>
