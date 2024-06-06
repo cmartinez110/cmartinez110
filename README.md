@@ -12,7 +12,8 @@
   - <a href="https://github.com/cmartinez110/Incident-response-analysis/blob/main/README.md" target="_blank">Incident Response Analysis</a>
 
   - <a href="https://github.com/cmartinez110/vulnerability-assessment-report/blob/main/README.md">Vulnerability Assessment Report</a>
-  - [Microsoft Windows Defender and Firewall for Beginners]
+  - <a href="https://coursera.org/share/48f725e65c973676bbecfe38e27d4dfa">Microsoft Windows Defender and Firewall for Beginners</a>
+
 
 - <b>Logs, Packet Capture, and Network Traffic Analysis:</b>
   - <a href="https://github.com/cmartinez110/introduction-to-tcpdump/blob/main/README.md">Introduction to TCPDump</a>
