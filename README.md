@@ -26,7 +26,7 @@
   - <a href="https://github.com/cmartinez110/suricata-lab-0/blob/main/README.md">Explore Signatures and Logs with Suricata</a>
 
   - [HackTheBox - Introduction to Network Traffic Analysis]
-  - [HackTheBox - Introduction to Active Directory]
+  - <a href="https://academy.hackthebox.com/achievement/889641/74">Introduction to Active Directory</a>
   - [HackTheBox - Windows Event Logs & Finding Evil]
  
 - <b>Code, Command Line, and Automation:</b>:
