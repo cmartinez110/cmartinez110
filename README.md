@@ -18,12 +18,12 @@
   - MITRE
 
  - <b>Cyber Threat Intelligence:</b>
-  - CTI Lifecycle essay
-  - Threat Intel Tools
-  - YARA
-  - OpenCTI
-  - MISP
-  - TheHive
+   - CTI Lifecycle essay
+   - Threat Intel Tools
+   - YARA
+   - OpenCTI
+   - MISP
+   - TheHive
   
 - <b>Risk Management:</b>
   - <a href="https://github.com/cmartinez110/Security-Audit/blob/main/README.md">Security Audit</a>
