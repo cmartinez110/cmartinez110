@@ -3,32 +3,77 @@
 <h2>Security Projects:</h2>
 <i>(anything not TBA is getting repo links ASAP!)</i>
 
-- <b>Blue Team:</b>
-  - [TryHackMe SOC Level 1 (In Progress)]
-  - [TryHackMe Cyber Defense (TBA)]
+- <b>Top Projects:</b>
+  - TryHackMe SOC Level 1
+  - [SOC Home Lab]
+  - [Blue Team Level 1 Capstone]
+  - [Phish/Malware Analysis Lab]
+  - [TryHackMe Cyber Defense]
+  - Active Directory Lab - DC and Client VMs, Config for security
  
+- <b>Frameworks:</b>
+  - Pyramid of Pain
+  - Unified Kill Chain
+  - Diamond Model
+  - MITRE
+
+ - <b>Cyber Threat Intelligence:</b>
+  - CTI Lifecycle essay
+  - Threat Intel Tools
+  - YARA
+  - OpenCTI
+  - MISP
+  - TheHive
+  
+- <b>Risk Management:</b>
   - <a href="https://github.com/cmartinez110/Security-Audit/blob/main/README.md">Security Audit</a>
 
   - <a href="https://github.com/cmartinez110/Incident-response-analysis/blob/main/README.md" target="_blank">Incident Response Analysis</a>
 
   - <a href="https://github.com/cmartinez110/vulnerability-assessment-report/blob/main/README.md">Vulnerability Assessment Report</a>
-  - <a href="https://coursera.org/share/48f725e65c973676bbecfe38e27d4dfa">Microsoft Windows Defender and Firewall for Beginners</a>
+  
   - <a href="https://academy.hackthebox.com/achievement/889641/74">Introduction to Active Directory</a>
 
 
 - <b>Logs, Packet Capture, and Network Traffic Analysis:</b>
+  - SNORT
+  - Zeek
+  - Brim
   - <a href="https://github.com/cmartinez110/introduction-to-tcpdump/blob/main/README.md">Introduction to TCPDump</a>
 
   - <a href="https://github.com/cmartinez110/wireshark-lab-0/blob/main/README.md">Introduction to Wireshark</a>
-
-  
-  - <a href="https://github.com/cmartinez110/chronicle-lab-0/blob/main/README.md">Perform a Query with Chronicle</a>
 
   - <a href="https://github.com/cmartinez110/suricata-lab-0/blob/main/README.md">Explore Signatures and Logs with Suricata</a>
 
   - [HackTheBox - Introduction to Network Traffic Analysis]
     
   - [HackTheBox - Windows Event Logs & Finding Evil]
+ 
+- <b>Endpoint Security Monitoring (+Firewalls?):</b>
+   - <a href="https://coursera.org/share/48f725e65c973676bbecfe38e27d4dfa">Microsoft Windows Defender and Firewall for Beginners</a>
+   - Core Windows Processes
+   - Sysinternals
+   - Windows Event Logs
+   - Osquery
+   - Wazuh
+
+- <b>Security Information and Event Monitoring (SIEM) </b>
+  - ELK
+  - Splunk
+  - <a href="https://github.com/cmartinez110/chronicle-lab-0/blob/main/README.md">Perform a Query with Chronicle</a>
+
+-<b>Digital Forensic</b>
+  - Windows Forensics
+  - Linux Forensics
+  - Autopsy
+  - Redline
+  - Kape
+  - Volatility
+  - Velociraptor
+  - Malware Anlysis
+
+- <b>Phishing</b>
+  - Analysis Tools
  
 - <b>Code, Command Line, and Automation:</b>
 
