@@ -62,7 +62,7 @@
   - Splunk
   - <a href="https://github.com/cmartinez110/chronicle-lab-0/blob/main/README.md">Perform a Query with Chronicle</a>
 
--<b>Digital Forensic</b>
+- <b>Digital Forensics</b>
   - Windows Forensics
   - Linux Forensics
   - Autopsy
