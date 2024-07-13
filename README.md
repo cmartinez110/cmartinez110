@@ -9,7 +9,7 @@
   - [Blue Team Level 1 Capstone]
   - [Phish/Malware Analysis Lab]
   - [TryHackMe Cyber Defense]
-  - <a href="https://github.com/cmartinez110/Security-Audit/blob/main/README.md">Active Directory Domain Controller Server and Client VMs +PowerShell to Add Users Script</a>
+  - <a href="https://github.com/cmartinez110/Security-Audit/blob/main/README.md">Active Directory Domain Controller Server and Client VMs +PowerShell Script to Add Users</a>
  
 - <b>Frameworks:</b>
   - Pyramid of Pain
