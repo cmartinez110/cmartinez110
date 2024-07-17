@@ -4,7 +4,7 @@
 <i>(anything not TBA is getting repo links ASAP!)</i>
 
 - <b>Top Projects:</b>
-  - <a href="https://github.com/cmartinez110/Security-Audit/blob/main/README.md">Active Directory Domain Controller Server and Client VMs +PowerShell Script to Add Users</a>
+  - <a href="https://github.com/cmartinez110/active-directory-0">Active Directory Domain Controller Server and Client VMs +PowerShell Script to Add Users</a>
   - TryHackMe SOC Level 1
   - [SOC Home Lab]
   - [Blue Team Level 1 Capstone]
