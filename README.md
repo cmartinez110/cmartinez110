@@ -5,18 +5,24 @@
 
 - <b>Top Projects:</b>
   - <a href="https://github.com/cmartinez110/active-directory-0">Active Directory Domain Controller Server and Client VMs +PowerShell Script to Add Users</a>
+  - <a href="https://github.com/cmartinez110/Apply-Filters-to-SQL-Queries">Apply filters to SQL Queries</a>
+  - <a href="https://github.com/cmartinez110/Python-File-Update-Algorithm/blob/main/README.md">Python file update algorithm</a>
+  - <a href="https://github.com/cmartinez110/chronicle-lab-0/blob/main/README.md">Perform a Query with Chronicle</a>
+  - <a href="https://github.com/cmartinez110/suricata-lab-0/blob/main/README.md">Explore signatures and logs with Suricata</a>
+  
   - TryHackMe SOC Level 1
   - [SOC Home Lab]
   - [Blue Team Level 1 Capstone]
   - [Phish/Malware Analysis Lab]
   - [TryHackMe Cyber Defense]
   
- 
+ <!--
 - <b>Frameworks:</b>
   - Pyramid of Pain
   - Unified Kill Chain
   - Diamond Model
   - MITRE
+  -->
 
  - <b>Cyber Threat Intelligence:</b>
    - CTI Lifecycle essay
