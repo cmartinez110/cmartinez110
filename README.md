@@ -10,7 +10,7 @@
   - <a href="https://github.com/cmartinez110/yara-first-rule/blob/main/README.md">YARA - Install and Create a Rule</a>
   - <a href="https://github.com/cmartinez110/chronicle-lab-0/blob/main/README.md">Perform a Query with Chronicle</a>
   - <a href="https://github.com/cmartinez110/suricata-lab-0/blob/main/README.md">Explore Signatures and Logs with Suricata</a>
-  - <a href="https://github.com/cmartinez110/bits-and-bytes-capstone/edit/main/README.md">OSI Model Capstone</a>
+  - <a href="https://github.com/cmartinez110/bits-and-bytes-capstone">OSI Model Capstone</a>
   
   - TryHackMe SOC Level 1
   - [SOC Home Lab]
